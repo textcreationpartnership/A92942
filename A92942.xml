@@ -1,0 +1,841 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialling universal: performed by an easie and most speedy way. Shewing how to describe the hour lines on all sorts of planes whatsoever, and in any latitude. Performed by certaine scales set on a small portable ruler. By G.S. practicioner in the mathematicks.</title>
+            <author>Serle, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92942</idno>
+            <idno type="STC">Wing S2622</idno>
+            <idno type="STC">Thomason E956_3</idno>
+            <idno type="STC">ESTC R207641</idno>
+            <idno type="EEBO-CITATION">99866680</idno>
+            <idno type="PROQUEST">99866680</idno>
+            <idno type="VID">168529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168529)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 143:E956[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dialling universal: performed by an easie and most speedy way. Shewing how to describe the hour lines on all sorts of planes whatsoever, and in any latitude. Performed by certaine scales set on a small portable ruler. By G.S. practicioner in the mathematicks.</title>
+                  <author>Serle, George.</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by R. and W. Leybourn for Thomas Pierrepont at the signe of the Sun in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>G.S = George Serle cf. Wing.</note>
+                  <note>Apparently also issued with S5689.</note>
+                  <note>Diagrams throughout the work.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168529:1" rendition="simple:additions"/>
+            <p>DIALLING UNIVERSAL: Performed by an eaſie and moſt ſpeedy way.</p>
+            <p>SHEWING How to deſcribe the hour lines on all ſorts of Planes whatſoever, and in any Latitude.</p>
+            <p>Performed by certaine Scales ſet on a ſmall Portable Ruler.</p>
+            <p>
+               <hi>By</hi> G. S. <hi>Practicioner in the Mathematicks.</hi>
+            </p>
+            <p>LONDON Printed by <hi>R.</hi> and <hi>W. Leybourn</hi> for <hi>Thomas Pierrepont</hi> at the Signe of the Sun in <hi>Pauls</hi> Church-yard. 1657.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168529:2"/>
+            <pb facs="tcp:168529:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, I here preſent to thy view a ſhort Tract containing the deſcription and uſes of certaine Scales to be put on a ſmall Ruler, ſerving for the eaſie and ſpeedy drawing of the Hour lines on all ſorts of Planes, in what Latitude ſoever, and howſoe<g ref="char:EOLhyphen"/>ver ſcituated.</p>
+            <p>The firſt Scale of Hours and the Scale of La<g ref="char:EOLhyphen"/>titudes, I acknowledge to be the Invention of that famous Mathematician Mr. <hi>Samuel Fo<g ref="char:EOLhyphen"/>ſter,</hi> laid down in his book of the uſes of a Qua<g ref="char:EOLhyphen"/>drant publiſhed <hi>Anno 1638.</hi> His Scale of Hours on the Quadrant, being really divided
+<pb facs="tcp:168529:3"/>onely into Hours and halfe hours. But by apply<g ref="char:EOLhyphen"/>ing of the Thread and Bead, (by which means the hours are there found) the Scale is divided into a<g ref="char:EOLhyphen"/>ny other parts requiſite. Now having peruſed the labours of divers Authours that have written on this Subiect and finding none (in my judgement) ſo eaſie, pleaſant, and of ſo quick diſpatch, for all Dialls with Centers; I cauſed that Scale to be put on a Ruler for my own uſe, ſubdivided into as many parts as the length of the Ruler would af<g ref="char:EOLhyphen"/>ford, which being exactly done. I found that the ſe<g ref="char:EOLhyphen"/>veral hours and parts might be taken off with the Compaſſes from the Scale on the Ruler, with more eaſe and exactneſſe then could be done from the Quadrant, by the application of the Thread and Bead; which whoſoever ſhall carefully try both, will find to be true.</p>
+            <p>The other Scales on the Ruler, (by which are made all ſorts of Polar Dialls direct or decli<g ref="char:EOLhyphen"/>ning,
+<pb facs="tcp:168529:3"/>as alſo direct Meridian Dialls, together with farre Decliners, and generally all ſuch as fall neer the Pole, to be drawn without a Center) are of my own framing; which although I eſteem not worth publiſhing, yet I am confident will yield ſome contentment, and give ſome ſatisfaction to the ingenious; who will accept of my good will. Note that whereas in divers of the Chapters, I have ſet down ſhort Tables, it was done onely to ſhew the manner of the worke, not that there is any need at all thereof, for having the Inclination of the Meridians converted into time, you have ſufficient directions for ſetting off all the hours of any Diall; Note alſo that if your Ruler ſhall be a foot in length, the firſt hour Scale may have every ſeveral minute expreſſed on it, and the Polar Scales every fifth minute, and any Di<g ref="char:EOLhyphen"/>all may be drawn in halfe a ſheet of ordinary pa<g ref="char:EOLhyphen"/>per. But if it be of the length in the Book, any
+<pb facs="tcp:168529:4"/>Diall may then he drawn in a quarter of a ſheet of paper. I conclude referring thee to the Book it ſelfe, which if it ſhall find acceptance with thee in yielding thee in any kind the ſatisfctation expected I have my ends and deſires.</p>
+            <closer>
+               <signed>G. S.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:168529:4"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 1</label> 
+                  <hi>The Deſcription of the Scales on the Ruler. Pag.</hi> 1</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 2</label> 
+                  <hi>How to draw a Meridian line. Pag.</hi> 2</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 3</label> 
+                  <hi>How to find the Inclination of a Plane. Pag.</hi> 3</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 4</label> 
+                  <hi>How to find the Declination of a Plane. Pag.</hi> 4</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 5</label> 
+                  <hi>How to draw a direct Polar Diall. Pag.</hi> 5</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 6</label> 
+                  <hi>How to draw an Erect Meridian Diall. Pag.</hi> 6</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 7</label> 
+                  <hi>How to draw an Horizontal Diall. Pag.</hi> 8</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 8</label> 
+                  <hi>How to draw an Erect direct verticall. Pag.</hi> 10</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 9</label> 
+                  <hi>How to make a verticall inclining Diall. Pag.</hi> 11</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 10</label> 
+                  <hi>How to make an Aequinoctiall Diall. Pag.</hi> 12</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 11</label> 
+                  <hi>How to find the height of the Pole above the Plane, &amp;c. for Decliners and Declining Inclining Planes, Geometri<g ref="char:EOLhyphen"/>cally, onely by a line of Chords. Pag.</hi> 13</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 12</label> 
+                  <hi>How to make a verticall declining Diall. Pag.</hi> 17</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 13</label> 
+                  <hi>How to make a vertical declining Diall, where the E<g ref="char:EOLhyphen"/>vation is ſmall. Pag.</hi> 19</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 14</label> 
+                  <hi>How to make a Meridian Inclining Diall. Pag.</hi> 22</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 15</label> 
+                  <hi>How to make a Declining Inclining Diall. Pag.</hi> 24</item>
+               <item>
+                  <label>
+                     <hi>Chap.</hi> 16</label> 
+                  <hi>How to make a Polar Declining Diall. Pag.</hi> 27</item>
+            </list>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:168529:5"/>
+            <head>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure> An Advertiſement to the Reader.</head>
+            <p>NOte that the Diagrams are all contracted, o<g ref="char:EOLhyphen"/>therwiſe they would have taken up a great deal of room to little purpoſe, for as they are, they give as much light to the ingeni<g ref="char:EOLhyphen"/>ous practicioner as if they had been drawn by the Scale annexed, and every Diagram have filled a whole page or neer upon, whereas now it takes up but a ſmall portion of a page.</p>
+         </div>
+         <div type="advert_for_mathematical_instruments">
+            <p>And note that theſe Scales and all other Mathe<g ref="char:EOLhyphen"/>matical Inſtruments what<g ref="char:EOLhyphen"/>ſoever, are made and ſold by Mr. <hi>Anthony Thompſon,</hi> dwelling in <hi>Hoſier</hi> lane neer <hi>Smithfield.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168529:5"/>
+            <head>DIALLING:</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The Deſcription of the Scales on the Ruler.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He firſt Scale is a Scale of ſix hours, each hour divided into halves and quarters of hours, being proper for Dials that have no declination: as the Horizontal, the di<g ref="char:EOLhyphen"/>rect North or South, whether upright or inclining.</p>
+               <p>Moreover each hour is ſubdivided into as many une<g ref="char:EOLhyphen"/>qual parts, as the length of the Scale will permit, this Scale is of ſpecial uſe in deſcribing all other Dials that have Centers; where the Altitude of the Stile above the Plain is not leſſe then 10 degrees; when that happens there are other Scales to performe it with ſpeed and exactneſſe enough.</p>
+               <p>This Scale hath the letters, <hi>(Hour,)</hi> at the beginning.</p>
+               <p>The ſecond is a Scale of 90 degrees, anſwerable to the Scale of Hours, every degree being alſo ſubdivided into as many parts as quantity will give leave. This Scale is known by the letters <hi>(Incl.)</hi> at the beginning; Note that the firſt and ſecond Scales together ſhew how many degrees and minutes of time are contained in a<g ref="char:EOLhyphen"/>ny number of degrees and minutes of the Equinoctial un<g ref="char:EOLhyphen"/>der 90 <hi>&amp; contra.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> Againſt 20 degrees on the ſecond Scale; you ſhall find on the firſt Scale 1 hour 20 minutes, and a<g ref="char:EOLhyphen"/>gainſt 50 degrees on the ſecond Scale, you ſhall find 3
+<pb n="2" facs="tcp:168529:6"/>hours 20 minutes on the firſt Scale, and ſo of any other number what ever, if carefully computed.</p>
+               <p>The third Scale is a Scale of Latitudes, known by the letters <hi>(Lat.)</hi> at the beginning.</p>
+               <p>The fourth and fifth Scales are 2 Scales of hours of different lengths, either of which ſerve to make all di<g ref="char:EOLhyphen"/>rect Meridian or Polar Dialls, alſo all Polar Dialls that decline.</p>
+               <p>Both theſe Scales together ſerve for the ſpeedy draw<g ref="char:EOLhyphen"/>ing the hour-lines on all ſorts of Planes, where the height of the Stile is but ſmall, and the Center of the Diall left out, theſe Scales are known by the letters <hi>Pol.</hi> at the beginning.</p>
+               <p>Theſe are the chief Scales, there is alſo a Scale of Chords, whoſe uſe is common.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>To draw a Meridian line on an Horizontal Plane.</hi>
+               </head>
+               <p>
+                  <figure>
+                     <figDesc>diagram</figDesc>
+                  </figure>
+               </p>
+               <p>WIth your line of chords deſcribe the Circle ABCD, then holding up a thred and plummet, ſo as the ſhadow of the thred may paſs through the Center E, draw the line of ſhadow DEB: Take then the Altitude of the Sun (or rather let another take it at the ſame inſtant,) which done get the Suns
+<pb n="3" facs="tcp:168529:6"/>Azimuth, which in this Example ſhall be 50 degrees from South towards Eaſt, which 50 deg. I take out of the line of Chords, and ſet it from the point D, South<g ref="char:EOLhyphen"/>ward to A, drawing the line AEC for the Meridian line.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>To find the Inclination of a Plane.</hi>
+               </head>
+               <p>THe Inclination of a Plane is the angle which it ma<g ref="char:EOLhyphen"/>keth with the Horizon: Draw firſt an Horizontal line as AB,
+<figure>
+                     <figDesc>diagram</figDesc>
+                  </figure> and croſſe it with the perpendicular CD, then apply a Qua<g ref="char:EOLhyphen"/>drant to the vertical line CD, on a Ruler as the Fi<g ref="char:EOLhyphen"/>gure directeth you, and holding up a thred and plummet, ſo as that the plummet may by means of the Ruler, play under the Center of the Qua<g ref="char:EOLhyphen"/>drant, the thred paſſing through the Center, obſerve the degrees cut in the limb, and count them from that ſide of the Quadrant which is perpendicular to the plane, that ſhall be the Inclination of the Plane, as the angle HFE: the Complement where<g ref="char:EOLhyphen"/>of EFG, is the angle of Reclination of the Plane from the Zenith.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="4" facs="tcp:168529:7"/>
+               <head>CHAP. IV. <hi>To find the Declination of a Plane.</hi>
+               </head>
+               <p>THe Declination is alwayes reckoned in the Horizon, and is the angle contained between the line of Eaſt and Weſt and the Horizontal line upon the Plane: Now to get the Declination two obſervations are requi<g ref="char:EOLhyphen"/>red, Firſt, the Horizontal diſtance of the Sun from the Pole of the Plane; Secondly, the Suns Altitude.</p>
+               <p>Draw firſt an Horizontal line, as the line I K in the figure of the laſt Chapter, then apply thereto the ſide of a Quadran, holding it parallel to the Horizon, then hold up a Threed and Plummet, ſo as the ſhadow of the Threed may paſs through the Center of the Quadrant, then obſerve the degrees cut off by the Threeds ſhadow on the limbe, and reckon them from that ſide of the Quadrant, that is perpendicular to the Plane, as the angle L M N, that is the Horizontal diſtance.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p n="2">2 Secondly, take the Suns altitude, and finde his Azimuth, theſe compared together will help you to the declination, as may be plainly demo<g ref="char:cmbAbbrStroke">̄</g>ſtrated by this figure: deſcribe the Circle A B C D: repreſenting the Horizontal circle, draw A E C for the Horizontal line of the Plane, then ſet off the Horizontal diſtance L M N, which in this Example ſhall be 35 degrees: theſe I place from A to F, then having taken the Suns altitude, I
+<pb n="5" facs="tcp:168529:7"/>find the Azimuth from Eaſt towards South to be 50 de<g ref="char:EOLhyphen"/>grees, theſe I place from F the Suns place, to G North<g ref="char:EOLhyphen"/>ward, and draw the line G H through the Center, ſo ſhal G H be the true points of Eaſt and Weſt, and I K drawn at right angles to G H ſhall be the points of North and South: Now the angle of declination is A E G, or K E M, which in this Example is 16 degrees.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>To draw a direct Polar Dial.</hi>
+               </head>
+               <p>A Direct Polar Plane is that which is parallel to the hour circle of 6. Firſt, draw the Horizontal line A B, with its parallel C D, then draw the perpendicular E F, which ſhall ſerve for the ſubſtile and hour of 12, then re<g ref="char:EOLhyphen"/>pair to either of your Scales known by the letters <hi>Pol.</hi> and fixing one foot of your Compaſſes at the beginning of the ſaid Scale, extend the other foot to the hour of 1, ſet off that extent from E to 11, and from E to 1, as alſo from
+<figure>
+                     <figDesc>diagram</figDesc>
+                  </figure> G both wayes, on the line A B, and draw the hours of 11 and 1, parallel to the ſubſtile E G F: then again extend your Compaſſes from the beginning of the Scale to two hours, ſet off that extent from E to 10, and from E to 2, al<g ref="char:EOLhyphen"/>ſo
+<pb n="6" facs="tcp:168529:8"/>from G both wayes, and draw the hours of 10 and 2: Then extend the Compaſſes from the beginning of the Scale to 3, and ſet off that from E to 9, and from E to 3, and draw the hours 9 and 3 parallel to the former: then extend the Compaſſes from the beginning of the Scale to 4, and ſet off that from E to 8, and from E to 4, alſo from G both wayes, and draw the hours of 8 and 4. Laſt<g ref="char:EOLhyphen"/>ly, extend the Compaſſes from the beginning of the Scale to 5, and ſet it off from E to 7, and from E to 5, al<g ref="char:EOLhyphen"/>ſo from G both wayes, and draw the hours of 7 and 5. So have you all the hours proper for this Plane.</p>
+               <p>The ſtile may be a thin Plate of braſs or Iron that muſt ſtand directly perpendicular to the Plane, and in the ſub<g ref="char:EOLhyphen"/>ſtilar line or hour line of 12. The length whereof muſt be the diſtance from the beginning of the Scale to the hour of 3. This done, the Dial is finiſhed.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>To draw an erect Meridian Dial.</hi>
+               </head>
+               <p>A Meridian Plane is that which is parallel to the circle of the houre of ſix, having one face to the Eaſt, the o<g ref="char:EOLhyphen"/>ther to the Weſt, in each of them the ſtile and ſubſtile will be parallel to the Plane, and the hour-lines parallel one to the other, as in the direct Polar of the laſt Chap<g ref="char:EOLhyphen"/>ter, our example ſhall be of a Meridian Dial, with the face to the Eaſt, in the Latitude of 51 d. 30 min. and is thus deſcribed.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>The diſtance from the beginning of the Scale to the hour of 3, gives the height of the Stile which muſt
+<pb n="8" facs="tcp:168529:9"/>ſtand directly over the Subſtile, making right angles therewith, and may be made of a thin plate of Iron or Braſſe, or a pin of either ſharpned; whoſe extremity muſt give the ſhadow to the hour lines on the Diall; Note that the making of the Weſt Diall differeth from this only in its ſcituation and changing the hours, this Diall looking to the Eaſt and the other to the Weſt, this ſerving from Sun riſing to paſt 11, the other from be<g ref="char:EOLhyphen"/>fore 1 to Sun-ſet.</p>
+               <p>Note if you turne the Eaſt Dyall drawn in paper from you, and look on the backſide, you ſhall there ſee the perfect form of the Weſt Diall, onely inſtead of the hours 11, 10, 9, 8, 7, 6, 5, 4, you muſt write 1, 2, 3, 4, 5, 6, 7, 8.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>To draw an Horizontal Diall for the Latitude of</hi> 51 <hi>deg.</hi> 30 <hi>min.</hi>
+               </head>
+               <p>AN Horizontal Plane is that which is parallel to the Horizontal Circle of the Sphere, to draw the hours proceed thus.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>With your line of Chords make an angle of 51 deg. 30 min. for the ſtile or cock of your dial, and ſet it over
+<pb n="10" facs="tcp:168529:10"/>the ſubſtile A D, at right angles as the angle E A D, in the Diagram, and the Dial is finiſhed.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>To draw a Dial on an erect direct vertical Plane.</hi>
+               </head>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>The Stile E A D muſt containe an angle of 38 deg. 30 min. and muſt ſtand directly over the Subſtile A D.</p>
+               <p>For the North face, the Center muſt be below and the Stile point upward. The hours fit for that Plane are the hours of 4, 5, 6, 7, in the morning, and 5, 6, 7, 8, in the evening.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>How to draw a vertical Inclining Dial.</hi>
+               </head>
+               <p>IF the Inclination be towards the North part of the Ho<g ref="char:EOLhyphen"/>rizon, you are to ſubtract the Inclination out of the com<g ref="char:EOLhyphen"/>plement of the elevation, and the remainer is the new Latitude.</p>
+               <p>
+                  <hi>Example.</hi> Of a South Diall in the Latitude of 51 deg. 30 min. inclining Northward 25 deg. I deduct 25 out of 51.30, and there remaineth 13.30. the elevation of the Pole above the Plane, having found the elevation of the Pole above the Plane I proceed to make the Dial, as if it were an upright South Dial, for the Latitude of 13 deg. 30 min making A B and A C equal to 13.30 ta<g ref="char:EOLhyphen"/>ken out of the line of Latitudes, following the rules of the laſt Chapter for the reſt of the work.</p>
+               <p>The Stile muſt contain an Angle of 13.30 and muſt be ſet directly over the Subſtile A D, and the Diall is fi<g ref="char:EOLhyphen"/>niſhed.</p>
+               <pb n="12" facs="tcp:168529:11"/>
+               <p>But if the Inclination be towards the South part of the Horizon, then adde the Inclination to the Latitude and the ſumme is the elevation of the Pole above the Plane, if the ſumme exceed 90, take it out of 180, and the re<g ref="char:EOLhyphen"/>mainer is the elevation of the Pole above the Plane.</p>
+               <p>
+                  <hi>Example.</hi> In the Latitude of 51 <abbr>d.</abbr> 30. a Plane found to incline Southwards 15 degrees, I add 15 d. to 51. 30 the ſumme is 66.30 that is the elevation of the Pole above the Plane, ſo obſerving the former directions you may proceed to make the Diall as is before taught.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. <hi>How to draw an Equinoctial Diall.</hi>
+               </head>
+               <p>AN Equinoctial Plane is that which is parallel to the Equinoctial Circle of the Sphere: Make AB and AC of the former Diagrams, equal to the whole line of Latitudes, and proceed as if you were to make an Hori<g ref="char:EOLhyphen"/>zontal Diall, and ſet up a ſharpned point in the Center of any convenient length.</p>
+               <p>But the beſt way to draw this Diall, being the houres are equidiſtant, is to divide 360 by 24, the quotient is 15, ſo having with the Radius of your line of Chords deſcribed a Circle and drawn the Diameter for the 2 hours of ſix, and the perpendicular for the hour of 12, take 15 degrees out of your line of Chords, and ſet it off from hour to hour, let this Diall containe as many houres as the Horizontal and ſo numbred.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="13" facs="tcp:168529:11"/>
+               <head>CHAP. XI. <hi>How to find the height of the Pole above the Plane, the diſtance of the Subſtile from the Meridian, and the Inclination of Meridi<g ref="char:EOLhyphen"/>ans, for upright declining and Meridian in<g ref="char:EOLhyphen"/>clining Dialls; as alſo what ever elſe is ne<g ref="char:EOLhyphen"/>ceſſary to be found for all other Dialls, here<g ref="char:EOLhyphen"/>after treated of before the hour lines can be drawn.</hi>
+               </head>
+               <p>THe beſt and exacteſt way to find theſe, is by the Tables, or Canons of Logarithms; but of that I will not touch in this ſmall Treatiſe, but make uſe of ſome Geometrical way whereof there are divers, but the beſt and eaſieſt in my judgement (it requiring onely a line of Chords,) is that of Mr. <hi>Stirrup,</hi> which I here make uſe of (I hope without offence.</p>
+               <p>The firſt Example ſhall be of a Plane declining from South 28 degrees towards the Eaſt: as by the firſt Dia<g ref="char:EOLhyphen"/>gram of this Chapter is Demonſtrated as followeth.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>Then from the point L, draw LT cutting the arch GR in O; draw AOI: ſo ſhall CI be the Inclinati<g ref="char:EOLhyphen"/>on of Meridians 34 deg. 12 minutes.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="17" facs="tcp:168529:13"/>
+               <head>CHAP. XII. <hi>How to draw the hours on an erect vertical decli<g ref="char:EOLhyphen"/>ning Plane.</hi>
+               </head>
+               <p>HAving by the laſt Chapter obtained thoſe neceſſary requiſites there mentioned I now proceed to draw the hour-lines on all thoſes Planes treated of in that Chap<g ref="char:EOLhyphen"/>ter, by our firſt Scale of Hours, as alſo all Polar declining Dials, and all far declining vertical, by the Polar Scales. And firſt for the vertical Decliner mentioned in the laſt Chapter declining from South towards Eaſt 28 degrees in the Latitude of 51 deg. 30 min. Proceed thus: firſt, draw a line at length as BAC, then conſidering that the height of the Pole above the Plane was 33 deg. 20 min. I take 33 deg. 20 min. out of the Scale of Latitudes, and ſet it off from A to B, and from A to C, chuſing A for the Center of the Dial. Then take in your Compaſſes the whole firſt Scale, or Scale of Hours, and with one foot fixed in B with the other make an arch at D, and with the ſame extent, one foot fixed in C, with the other croſs the arch at D, and draw the lines BD and CD, as alſo the line AD for the Subſtile: Then having found the Inclination of the Meridians to be 34 deg. 12 min. I ſeek that in the ſecond Scale known by the Letters <hi>Ind.</hi> and juſt againſt it on the firſt Scale, I find two hours 17 min. then take off two hours 17 min. from that Scale, and ſet it from D to 12, and from B to 6, then extend your Com<g ref="char:EOLhyphen"/>paſſes from the beginning of the ſame Scale too hours 17′
+<pb n="18" facs="tcp:168529:14"/>and ſet that from D to 10,
+<figure>
+                     <figDesc>diagram</figDesc>
+                  </figure> and from B to 4, then open your Compaſſes to 1 hour 17′ of the ſame Scale and ſet it from D to 11, and from B to 5, then open the Compaſ<g ref="char:EOLhyphen"/>ſes to 3 houres, 17 min. and ſet it from D to 1, and from B to 7, then open the Compaſſes to 4 ho. 17′, and ſet it from D to 2, and from B to 8, then laſt<g ref="char:EOLhyphen"/>ly, open your Compaſſes to 5 houres 17 min. and ſet it from D to 3, and from B to 9. So lines drawn from A to thoſe points ſhall be the hours proper for this Plane: if you pleaſe you may ſet off the largeſt extents firſt, as 5 hours 17 min. and ſo go on cloſing of the Compaſſes till you come to o hours 17 min. for D 10, and B 4. Note that the firſt Columne of the Table contains the hours and minutes that are to be taken in your Com<g ref="char:EOLhyphen"/>paſſes off of the firſt Scale, and ſet from D or B to their
+<table>
+                     <row>
+                        <cell role="label">
+                           <hi>Ho.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>M.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>from</hi> D <hi>toward</hi> C,</cell>
+                        <cell role="label">
+                           <hi>from</hi> B <hi>towards</hi> D.</cell>
+                     </row>
+                     <row>
+                        <cell>5.</cell>
+                        <cell>17</cell>
+                        <cell>D — 3</cell>
+                        <cell>And B—9</cell>
+                     </row>
+                     <row>
+                        <cell>4.</cell>
+                        <cell>17</cell>
+                        <cell>D — 2</cell>
+                        <cell>And B—8</cell>
+                     </row>
+                     <row>
+                        <cell>3.</cell>
+                        <cell>17</cell>
+                        <cell>D — 1</cell>
+                        <cell>And B—7</cell>
+                     </row>
+                     <row>
+                        <cell>2.</cell>
+                        <cell>17</cell>
+                        <cell>D — 12</cell>
+                        <cell>And B—6</cell>
+                     </row>
+                     <row>
+                        <cell>1.</cell>
+                        <cell>17</cell>
+                        <cell>D — 11</cell>
+                        <cell>And B—5</cell>
+                     </row>
+                     <row>
+                        <cell>0.</cell>
+                        <cell>17</cell>
+                        <cell>D — 10</cell>
+                        <cell>And B—4</cell>
+                     </row>
+                  </table> reſpective hours on the Plane, contained in the ſe<g ref="char:EOLhyphen"/>cond and third Co<g ref="char:EOLhyphen"/>lumns of the Table: conſider alſo that the Inclination of Meri<g ref="char:EOLhyphen"/>dians;
+<pb n="19" facs="tcp:168529:14"/>being 34 <abbr>d.</abbr> 12′ or 2 ho. 17′ of time and the de<g ref="char:EOLhyphen"/>clination towards Eaſt, the Subſtile falls between the hours of 9 and 10 in the morning, whereas if the decli<g ref="char:EOLhyphen"/>nation had been Weſt the Subſtile would have fain be<g ref="char:EOLhyphen"/>twixt the hours of 2 and 3 in the afternoon, and the hour of 12 would have been towards the left hand of the Subſtile, whereas the declination being Eaſt, it ſtands on the right hand of the Subſtile.</p>
+               <p>The ſtile muſt have elevation 33.20. as the angle EAD, and muſt ſtand directly over the Subſtile AD, and the Diall is finiſhed. I have been more large in this Chapter then I ſhall be in what ſhall follow, touching all other Dials with Centers, by reaſon the drawing and ſetting off the hours is the ſame with the work of this Chapter.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>To draw the hours on a farre declining vertical Plane, by the</hi> 2 <hi>Polor Scales on the Ruler.</hi>
+               </head>
+               <p>THoſe Planes whoſe declination, or declination and Inclination ſhal cauſe them to fall neer the Pole, ſo as that the hours can hardly be diſtinguiſhed they falling ſo neer together, muſt have the Center left out and the Stile increaſed, and then the hours may be eaſily and ſpeedily drawn by the directions following.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>Now for the other line DIBF, you muſt ſet off the hours thereon taken out of the leſſer Polar Scale from B, according to the Table in all reſpects changing only A for B: this done draw lines through the reſpective points in the lines CAE and DBF, which ſhall be the hour lines of the Diall.</p>
+               <p>Note that a Diall of this kind is neer as ſocn made as ſpoken of, The Stile muſt be a thin plate to ſtand direct<g ref="char:EOLhyphen"/>ly over the Subſtile, as in the figure is demonſtrated by AB and CD.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV. <hi>To draw the Hours on a Meridian Inclining Plane.</hi>
+               </head>
+               <p>THoſe Planes whoſe Horizontal line is the ſame with the Meridian line, are called Meridian Planes, as the direct Eaſt and Weſt. But if they lean to the Ho<g ref="char:EOLhyphen"/>rizon they are called Incliners.</p>
+               <p>Thoſe Planes may incline either to the Eaſt or Weſt part of the Horizon, and each of them hath two faces, the upper towards the Zenith, the lower towards the Na<g ref="char:EOLhyphen"/>dir.</p>
+               <pb n="23" facs="tcp:168529:16"/>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>Take notice that when you are to draw any of the Di<g ref="char:EOLhyphen"/>alls with Centers, let the line BAC ſtand towards you, as if it were the Horizontal line, and the line AD a Plumb line, and ſo you will ſet off the hours with more eaſe as the direct vertical. Note that this Example is of a Meridian Plane inclining Eaſt, and therefore the Sub<g ref="char:EOLhyphen"/>ſtile muſt ſtand to the left hand of the Meridian or hour of 12.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV. <hi>To draw the Hour lines on a Declining, Inclining Plane.</hi>
+               </head>
+               <p>A Plane that declines from the prime Vertical and In<g ref="char:EOLhyphen"/>clines to the Horizon, and yet lyeth not even with the Poles of the World, is called a Declining Inclining Plane.</p>
+               <p>Of theſe there are ſeveral ſorts, for the Inclination be<g ref="char:EOLhyphen"/>ing Northward, the Plane may fall between the Hori<g ref="char:EOLhyphen"/>zon and the Pole, or between the Zenith and the Pole.</p>
+               <pb n="25" facs="tcp:168529:17"/>
+               <p>Or the Inclination may be Southward, and may fall either below the interſection of the Meridian, and the Aequator, or above it: and each of theſe have two faces, the upper towards the Zenith, and the lower towards the Naidir.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>Then conſidering the Inclination of Meridians was 15 deg. 17 min. I find it on the ſecond Scale, and a<g ref="char:EOLhyphen"/>gainſt it on the firſt Scale, I find 1 hour 1 min. ſo I ſet off the hours as hath been formerly ſhewn and this Table demonſtrateth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="3">
+                           <hi>from</hi> D <hi>towards</hi> B <hi>from</hi> C <hi>towards</hi> D.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Ho.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Min.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Hours on the Plane.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>0.</cell>
+                        <cell>1</cell>
+                        <cell>D — 11 And C — 5</cell>
+                     </row>
+                     <row>
+                        <cell>1.</cell>
+                        <cell>1</cell>
+                        <cell>D — 12 And C — 6</cell>
+                     </row>
+                     <row>
+                        <cell>2.</cell>
+                        <cell>1</cell>
+                        <cell>D — 1 And C — 7</cell>
+                     </row>
+                     <row>
+                        <cell>3.</cell>
+                        <cell>1</cell>
+                        <cell>D — 2 And C — 8</cell>
+                     </row>
+                     <row>
+                        <cell>4.</cell>
+                        <cell>1</cell>
+                        <cell>D — 3 And C — 9</cell>
+                     </row>
+                     <row>
+                        <cell>5.</cell>
+                        <cell>1</cell>
+                        <cell>D — 4 And C — 10</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The Stile muſt containe an angle of 30 deg. 20 min. as IAK in the Diagram to ſtand directly over the Sub<g ref="char:EOLhyphen"/>ſtile AD, and ſo the Diall is finiſhed.</p>
+               <p>Now when you meet with Declining Inclining Planes you muſt conſider which Pole is elevated above your Plane and how to place the Meridian from the Horizon<g ref="char:EOLhyphen"/>tal line, for upon the upper faces of all North Incliners, whoſe Meridians Elevation is leſſe then the Latitude of the Place, on the under faces of all North Incliners, whoſe Meridians Elevation is greater then the Latitude of the place, and on the upper faces of all South Incli<g ref="char:EOLhyphen"/>ners the North Pole is elevated. And upon the under
+<pb n="27" facs="tcp:168529:18"/>faces of all North Incliners, whoſe Meridians Elevati<g ref="char:EOLhyphen"/>on is leſſe then the Latitude of the place, on the upper faces of all North Incliners, whoſe Meridians Elevati<g ref="char:EOLhyphen"/>on is greater then the Latitude of the place, and on the under faces of all South Incliners the South Pole is ele<g ref="char:EOLhyphen"/>vated.</p>
+               <p>Now for placing the Meridian from the Horizontal line, upon the upper faces of all South Incliners whoſe Meridians Elevation is greater than the complement of Latitude, on the under faces of all South Incliners, whoſe Meridians Elevation is leſſe than the Latitudes, complement, on the under faces of all North Incliners, whoſe Meridian Elevation is greater then the Latitudes of the place, and on the upper faces of all North Incli<g ref="char:EOLhyphen"/>ners, whoſe Meridians Elevation is leſſe than the Lati<g ref="char:EOLhyphen"/>tude of the place the Meridian muſt be placed above the Horizontal line as in our Example. Again, contra<g ref="char:EOLhyphen"/>riwiſe for the upper faces of all South Incliners, whoſe Meridians Elevation is leſſe than the Latitudes comple<g ref="char:EOLhyphen"/>ment. On the under faces of all South Incliners, whoſe Meridans Elevation is greater than the complement of Latitudes, on the under faces of all North Incliners, whoſe Meridians Elevation is leſſe than the Latitude of the place, and on the upper faces of all North In<g ref="char:EOLhyphen"/>cliners, whoſe Meridians Elevation is greater then the Latitude of the place, the Meridian muſt be placed below the Horizontal line. But if it be either the up<g ref="char:EOLhyphen"/>per or under faces of a South Inclining Plane, whoſe Meridians Elevation is greater than the Latitudes com<g ref="char:EOLhyphen"/>plement, or either the upper or under faces of a North Inclining Plane, whoſe Meridians Elevation is leſſe
+<pb n="28" facs="tcp:168529:19"/>than the Latitude of the place, that then the Meridian muſt be placed from that end of the Horizontal line with the Declination of the Plane but on all the other faces of theſe kinds of Planes, the Meridian muſt be pla<g ref="char:EOLhyphen"/>ced from that end of the Horizontal line, which is con<g ref="char:EOLhyphen"/>trary to the Declination of the Plane.</p>
+               <p>Note alſo that if the Inclination be Southward and the Elevation of the Meridian, equal to the comple<g ref="char:EOLhyphen"/>ment of your Latitude, then ſhall the Subſtile lie ſquare to the Meridian.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI. <hi>To make a Dial on a Polar declining Plane.</hi>
+               </head>
+               <p>THeſe Planes if the Inclination be Northward and the Elevation of the Meridian equal to the Latitude of the Place then neither Pole is elevated above the Plane, and therefore its a declining Polar.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <pb n="29" facs="tcp:168529:19"/>
+               <p>
+                  <hi>Example.</hi> A Plane declining Eaſt from South 30 deg. and inclining North 34 deg. 30 min by the rules of the eleventh Chap. I find the diſtance of the Horizon and Meridian to be 71 deg. 53 min. which I ſet off from A to B in the arch AB, and draw BD for the Subſtile. Then at right angles to the Subſtile, I draw the lines FG and CE: Then conſidering the Inclination of Me<g ref="char:EOLhyphen"/>ridians to be 24 deg. 19 min. I find it on the ſecond Scale, and againſt it on the firſt Scale I find 1 ho. 37 min. Then having recourſe to the Table, I ſet off the hours from K and H, according to the directions of the 13 Chapter, for the farre Decliner, taking the ſeve<g ref="char:EOLhyphen"/>ral diſtances with my Compaſſes out of either of the Polar Scales, and ſetting them off from K towards C or E, as the Table plainly ſheweth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="8">
+                           <hi>from</hi> K <hi>toward</hi> E, <hi>from</hi> K <hi>towards</hi> C.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Ho.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>M.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Ho.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Plane</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Ho.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>M.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Hours</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Plane.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>0.</cell>
+                        <cell>37</cell>
+                        <cell>K</cell>
+                        <cell>11</cell>
+                        <cell>0.</cell>
+                        <cell>23</cell>
+                        <cell>K</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>1.</cell>
+                        <cell>37</cell>
+                        <cell>K</cell>
+                        <cell>12</cell>
+                        <cell>1.</cell>
+                        <cell>23</cell>
+                        <cell>K</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>2.</cell>
+                        <cell>37</cell>
+                        <cell>K</cell>
+                        <cell>1</cell>
+                        <cell>2.</cell>
+                        <cell>23</cell>
+                        <cell>K</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>3.</cell>
+                        <cell>37</cell>
+                        <cell>K</cell>
+                        <cell>2</cell>
+                        <cell>3.</cell>
+                        <cell>23</cell>
+                        <cell>K</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>4.</cell>
+                        <cell>37</cell>
+                        <cell>K</cell>
+                        <cell>3</cell>
+                        <cell>4.</cell>
+                        <cell>23</cell>
+                        <cell>K</cell>
+                        <cell>6</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The extent of the Compaſſes from the beginning of the Scale to the hour of 3 gives the height of the Stile, which muſt be a plate of Iron or Braſſe, ſet up juſt over the Subſtile HK, and the Diall is finiſhed.</p>
+            </div>
+            <div n="chapter 12" type="observations">
+               <pb n="30" facs="tcp:168529:20"/>
+               <head>
+                  <hi>Some obſervations relating chiefly to the Diall of the</hi> 12 <hi>Chap. being a vertical Decliner.</hi>
+               </head>
+               <p>WHereas in the Diagram of the 12th Chapter the Subſtile ſtands ſquare to the Horizon, you ſee here how it ought to ſtand, that is to ſay the 12 of clock hour muſt in this and all other vertical Decliners be the Plumb line as the Diagram here ſheweth.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>Note that no hour lines are to be drawn beyond the line BC.</p>
+               <pb n="31" facs="tcp:168529:20"/>
+               <p>Note alſo that if you oil the Pattern of this Diall drawn in paper, it will ſerve for 3 other Dialls that have the ſame Declination.</p>
+               <p>Firſt, a Dial for the Southweſt face of the Plane if you change the ſide, and the numbers ſet to the hours, the Center of the Diall upwards and the Stile and Subſtile pointing downwards.</p>
+               <p>Secondly, a Dial for the Northweſt face, if you turn the pattern upſide down, and changing the ſide taking the backſide for the foreſide, not altering the hours the Stile and Subſtile pointing upward.</p>
+               <p>Laſtly, a Diall for the Northeaſt face, if you take the foreſide onely turning it upſide down, and altering the numbers ſet to the hours, the Stile and Subſtile point<g ref="char:EOLhyphen"/>ing upward.</p>
+               <p>
+                  <table>
+                     <head>A Table ſhewing the Latitude of the moſt principal Cities and Towns in <hi>England.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">Name of the places.</cell>
+                        <cell role="label" cols="2">
+                           <hi>Latitude</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d.</cell>
+                        <cell>m.</cell>
+                     </row>
+                     <row>
+                        <cell>St. <hi>Albans</hi>
+                        </cell>
+                        <cell>51</cell>
+                        <cell>55</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Barwick</hi>
+                        </cell>
+                        <cell>55</cell>
+                        <cell>49</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bedford</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Briſtol</hi>
+                        </cell>
+                        <cell>51</cell>
+                        <cell>32</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Boſton</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cambridge</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cheſter</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Coventry</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chicheſter</hi>
+                        </cell>
+                        <cell>50</cell>
+                        <cell>56</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Colcheſter</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Darby</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Exon</hi>
+                        </cell>
+                        <cell>50</cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Grantham</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>58</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Halifax</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>49</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hereford</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hull</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>50</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Launſton</hi>
+                        </cell>
+                        <cell>50</cell>
+                        <cell>41</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>London</hi>
+                        </cell>
+                        <cell>51</cell>
+                        <cell>32</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lancaſter</hi>
+                        </cell>
+                        <cell>54</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Leiceſter</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lincolne</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Newcaſtle</hi>
+                        </cell>
+                        <cell>54</cell>
+                        <cell>58</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Northampton</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Oxford</hi>
+                        </cell>
+                        <cell>51</cell>
+                        <cell>54</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Shrewsbury</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>48</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Warwick</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wincheſter</hi>
+                        </cell>
+                        <cell>51</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Worceſter</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Yarmouth</hi>
+                        </cell>
+                        <cell>52</cell>
+                        <cell>45</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>York</hi>
+                        </cell>
+                        <cell>54</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
